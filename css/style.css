@@ -1,0 +1,210 @@
+/** {border: 1px solid red;}*/
+html{
+	font-size: 10px;
+}
+
+/*clases para editar*/
+.bg-light {
+    background-color: #006680c9 !important;
+}
+
+.navbar-light .navbar-brand {
+    color: rgb(255, 255, 255);
+}
+
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color: rgb(255, 255, 255);
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    padding-left: 5rem;
+/*    text-transform: uppercase;*/
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #ff7f2a !important;
+}
+
+.nav-link {
+    font-size: 1.8rem;
+    padding: .7rem 1rem;
+}
+
+.navbar-toggler {
+    background-color: white;
+    border: 1px solid white;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #2688a0;
+    border-color: #2688a0;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #214953;
+    border-color: #214953;
+}
+
+.modal-body{
+	font-size: 1.5rem;
+}
+
+/*clases para editar*/
+
+
+
+
+/*clases propias*/
+
+.fondo{
+	background: url("../images/fondo01.jpg");
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+	position: relative;
+	background-repeat: no-repeat;
+}
+
+.fondo-color{
+	background-color: rgba(66,66,66,0.6);
+	height: 100vh;
+	width: 100%;
+	position: absolute;
+	z-index: 1;
+}
+
+.fondo-footer{
+	background-color: #00222b;
+	padding: 2rem 0;
+	font-size: 1.5rem;
+}
+
+.fondo-contacto{
+	margin-top: 3rem;
+	padding-top: 0.8rem;
+	background-color: #2688a0;
+	height: 25vh;
+	position: relative;
+	z-index: 1;
+}
+
+.imagen-contacto-fondo{
+	z-index: 2;
+	position: absolute;
+	width: 100%;
+}
+
+.texto-fondo{
+	position: absolute;
+	z-index: 2;
+	width: 100%;
+}
+
+.titulo1{
+	font-weight: bold;
+}
+
+.titulo2{
+	text-transform: uppercase;
+	color: #00222b;
+}
+
+.titulo3{
+	font-size: 2.5rem;
+	text-transform: uppercase;
+}
+
+.titulo4{
+	font-size: 2.5rem;
+	color: #006680;
+}
+
+.texto1{
+	font-size: 1.8rem;
+	color: #fff;
+}
+
+.texto2{
+	font-size: 1.8rem;
+	color: #00222b;
+}
+
+.texto3{
+	font-size: 1.5rem;
+	padding-top: 1rem;
+}
+
+.texto4{
+	padding-top: 1rem;
+}
+
+
+.iconos{
+	font-size: 3rem;
+}
+
+.iconos2{
+	font-size: 4rem;
+}
+
+.iconos3{
+	font-size: 2rem;
+	padding-top: 4rem;
+}
+
+.i-home{
+    color: #fff;
+}
+
+.i-contacto-ciudad{
+	color: red;
+}
+
+.i-contacto-email{
+	color: #14d0ff;
+}
+
+.i-contacto-telefono{
+	color: green;
+}
+
+.i-gmail{
+	color: red;
+}
+
+.i-instagram{
+	color: #a41bcb;
+}
+
+.i-whatsapp{
+	color: green;
+}
+
+.separado{
+	padding-top: 8rem;
+}
+
+.separado2{
+	padding-top: 15rem;
+	padding-bottom: 4rem;
+}
+
+/*clases propias*/
+
+
+
+
+/*id*/
+#home {
+	position: relative;
+}
+
+/*id*/
